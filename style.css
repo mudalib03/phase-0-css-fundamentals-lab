@@ -1,20 +1,7 @@
-body {
-  width: 100%;
-  height: 100%;
-  margin: 0;
+.h2 {
+  font-size: larger;
 }
-#featured-property {
-  text-align: center;
-}
-nav {
-  text-align: center;
-}
-#title {
-  text-align: center;
-}
-p {
-  text-align: center;
-}
-#details {
-  background-color: brown;
-}
+#landingPage {background-color: rgb(69, 69, 80);}
+.rayaan {color: rgb(41, 7, 73);}
+#mudalib {margin: 0cqi;}
+.kak {color: brown;}
